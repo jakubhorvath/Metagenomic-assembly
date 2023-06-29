@@ -1,0 +1,8 @@
+'result_dir': '../results'
+'fast5_dir': '../data/raw'
+'kraken_db': '../kraken_db/kraken2-microbial-fatfree'
+#'seq_plot': '../results/nanoplots'
+
+'caller':
+  'config': 'dna_r9.4.1_450bps_hac.cfg'
+  'chunks': '1024'
